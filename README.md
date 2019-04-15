@@ -8,7 +8,7 @@ This app visualizes U.S. population by Census Tract using Dot Density. Each dot 
 
 Read the following blog to learn more about how this app was created: [Interactive dot density maps for the web](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/interactive-dot-density-maps-for-the-web/).
 
-## Highlights
+## Features
 
 This app demonstrates the following capabilities.
 
@@ -27,6 +27,26 @@ The user can explore individual categories of data by interacting with Legend el
 ### Popups
 
 The data in this app is rendered using dynamic feature tiles. This means we can render the data quickly without cooking it. It can be queried, highlighted, and analyzed. This app loads thousands of features quickly, but also allows the user to interact with it via popups. See the documentation of the [PopupTemplate](https://developers.arcgis.com/javascript/latest/api-reference/esri-PopupTemplate.html) API reference for more details.
+
+## Instructions
+
+1. Fork and then clone the repo.
+2. Run and try the sample.
+
+## Requirements
+
+* Notepad or your favorite HTML editor
+* Web browser with access to the Internet
+
+## Resources
+
+* [ArcGIS for JavaScript API Resource Center](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html)
+* [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
+* [twitter@esri](http://twitter.com/esri)
+
+## Issues
+
+Find a bug or want to request a new feature?  Please let us know by submitting an issue.
 
 ## Disclaimer
 
